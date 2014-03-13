@@ -1,0 +1,17 @@
+{
+  "uuid": "07ea6060-1b43-4a6b-b761-d853cd302894",
+  "shortName": "Evelyn",
+  "longName": "Evelyn",
+  "companyName": "Zach Latta",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
